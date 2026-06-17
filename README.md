@@ -38,7 +38,7 @@ This is an example gallery showcasing PCBs I designed in the last few years for 
 ![Halogenpic6](gallery/halogen/pcb_b.jpeg "Halogen PCB Back")  
 ![Halogenpic7](gallery/halogen/f.png "Halogen CAD Front")  
 ![Halogenpic8](gallery/halogen/b.png "Halogen CAD Back")  
-![Halogenpic9](gallery/assy.jpg "Halogen PCB assy w/ heatsinks")  
+![Halogenpic9](gallery/halogen/assy.jpg "Halogen PCB assy w/ heatsinks")  
 ![Halogenpic10](gallery/halogen/product_render.png "Halogen Final Product Render")  
 
 
