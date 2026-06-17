@@ -38,7 +38,8 @@ This is an example gallery showcasing PCBs I designed in the last few years for 
 ![Halogenpic6](gallery/halogen/pcb_b.jpeg "Halogen PCB Back")  
 ![Halogenpic7](gallery/halogen/f.png "Halogen CAD Front")  
 ![Halogenpic8](gallery/halogen/b.png "Halogen CAD Back")  
-![Halogenpic9](gallery/halogen/product_render.png "Halogen Final Product Render")  
+![Halogenpic9](gallery/assy.jpg "Halogen PCB assy w/ heatsinks")  
+![Halogenpic10](gallery/halogen/product_render.png "Halogen Final Product Render")  
 
 
 #### HardMPU project
@@ -68,10 +69,14 @@ Only PCB and mechanical design for this one after re-capturing the original sche
 
 #### Noisegen1 project
 
+*This one has been small-batch manufactured.*
+
 ![Noisegen1pic1](gallery/noisegen1/pcb_b.jpeg "Noisegen1 PCB Back")  
 ![Noisegen1pic2](gallery/noisegen1/pcb_f.jpeg "Noisegen1 PCB Front")  
 ![Noisegen1pic3](gallery/noisegen1/f.png "Noisegen1 CAD Front")  
 ![Noisegen1pic4](gallery/noisegen1/b.png "Noisegen1 CAD Back")  
+![Noisegen1pic5](gallery/noisegen1/assy1.jpg "Noisegen1 soldering process")  
+![Noisegen1pic6](gallery/noisegen1/assy2.jpg "Noisegen1 assembly process")  
 
 
 #### Noisegen2 project
